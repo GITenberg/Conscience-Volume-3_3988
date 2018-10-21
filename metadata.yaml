@@ -1,5 +1,5 @@
 _repo: Conscience-Volume-3_3988
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcsh 'Physicians -- Fiction'
 - !lcsh 'Paris (France) -- Fiction'
 - !lcc 'PQ'
+- GITenberg
 title: Conscience — Volume 3
 url: http://www.gutenberg.org/ebooks/3988
